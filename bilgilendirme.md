@@ -1,0 +1,1 @@
+Programımızda 14.400 kelime ile tahmin yapılmaktadır bu yüzden bağzı kelimeleri bulamaycaktır bunun için bulamadığı kelimeden sonra size kelimeyi sorduğunda yazıp bir sonraki sefere onun bulmasını sağlayabilirisniz.Eğer her harf verdiğinizde işlemleri görmek isterseniz 45. satırdaki "#" sembölünü silip yorum satırından çıktığında her işlemde çıktı alabilirsiniz.
